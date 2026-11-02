@@ -6,5 +6,9 @@
 >
 >**cd dotfiles**
 >
->**mv (folder dotfiles) ~/.config/
+>**mv (folder dotfiles) ~/.config**
 >
+
+## FINISH
+
+***enj0oy with a coffee***
